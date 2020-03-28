@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+black = "*"
+pytest = "*"
+pipenv-setup = "*"
+
+[packages]
+flask = "*"
+flask-restful = "*"
+punq = "*"
+sqlalchemy = "*"
+dataclasses-json = "*"
+
+[requires]
+python_version = "3.7"
