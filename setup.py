@@ -20,7 +20,7 @@ setup(
         "flask==1.1.1",
         "flask-restful==0.3.8",
         "itsdangerous==1.1.0",
-        "jinja2==2.11.1",
+        "jinja2==2.11.3",
         "markupsafe==1.1.1",
         "marshmallow==3.5.1",
         "marshmallow-enum==1.5.1",
